@@ -2,7 +2,7 @@
 $students = [
     [
         'name' => 'Karen',
-        'score' => 65,],
+        'score' => 95,],
     [
         'name' => 'Yuliia',
         'score' => 85,
@@ -10,7 +10,7 @@ $students = [
     ],
     [
         'name' => 'Olga',
-        'score' => 86,
+        'score' => 20,
     ]
 ]
 ?>
